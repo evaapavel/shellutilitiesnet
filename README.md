@@ -1,4 +1,4 @@
-# Encapsulates the .NET Process class.**
+# Encapsulates the .NET Process class.
 
 __Problem:__
 You need to start an EXE file from within a VBA macro sitting in an Excel spreadsheet.
